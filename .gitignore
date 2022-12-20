@@ -1,0 +1,7 @@
+.vscode/launch.json
+.vscode/tasks.json
+bin/Debug/net7.0/EstruturaDoPrograma.deps.json
+bin/Debug/net7.0/EstruturaDoPrograma.dll
+bin/Debug/net7.0/EstruturaDoPrograma.exe
+bin/Debug/net7.0/EstruturaDoPrograma.pdb
+bin/Debug/net7.0/EstruturaDoPrograma.runtimeconfig.json
